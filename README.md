@@ -4,12 +4,14 @@
 
 An application developed with Flutter and Apify API for tracking latest conrona cases for `Android` and 'iOS`.
 
+
 ## Screenshots
 
 <img align="left" width="300px" src="/screenshots/ss1.jpg" align="center" alt="Screenshot1" />
 <img align="left" width="300px" src="/screenshots/ss3.jpg" align="center" alt="Screenshot2" />
 <img align="left" width="300px" src="/screenshots/ss2.jpg" align="center" alt="Screenshot3" />
 
+<br>
 
 ## Connect With Me
 
