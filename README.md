@@ -9,11 +9,10 @@ An application developed with Flutter and Apify API for tracking latest conrona 
 
 <img align="left" width="300px" src="/screenshots/ss1.jpg" align="center" alt="Screenshot1" />
 <img align="left" width="300px" src="/screenshots/ss3.jpg" align="center" alt="Screenshot2" />
-<img align="left" width="300px" src="/screenshots/ss2.jpg" align="center" alt="Screenshot3" />
+<img width="300px" src="/screenshots/ss2.jpg" align="center" alt="Screenshot3" />
 
 
-
-### Connect With Me
+## Connect With Me
 
 [<img align="left" alt="nixrajput | GitHub" width="24px" src="https://raw.githubusercontent.com/nixrajput/nixlab-files/master/images/icons/github-brands.svg" />][website]
 
