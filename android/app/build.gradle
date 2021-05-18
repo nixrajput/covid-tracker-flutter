@@ -36,12 +36,11 @@ android {
 
     lintOptions {
         disable 'InvalidPackage'
-        checkReleaseBuilds false
     }
 
     defaultConfig {
-        applicationId "com.nixlab.covid_tracker"
-        minSdkVersion 16
+        applicationId "co.in.nixlab.covid_tracker"
+        minSdkVersion 20
         targetSdkVersion 30
         multiDexEnabled true
         versionCode flutterVersionCode.toInteger()

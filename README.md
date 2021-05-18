@@ -25,7 +25,7 @@ An application developed with Flutter and Apify API for tracking latest conrona 
 [<img align="left" alt="nixrajput | Instagram" width="24px" src="https://raw.githubusercontent.com/nixrajput/nixlab-files/master/images/icons/instagram-brands.svg" />][instagram]
 
 [github]: https://github.com/nixrajput
-[website]: https://github.com/nixrajput
+[website]: https://nixlab.co.in
 [facebook]: https://facebook.com/nixrajput07
 [twitter]: https://facebook.com/nixrajput07
 [instagram]: https://instagram.com/nixrajput
