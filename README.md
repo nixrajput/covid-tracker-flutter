@@ -14,7 +14,7 @@ An application developed with Flutter and Apify API for tracking latest conrona 
 <img width="300px" src="/screenshots/2.jpg" align="center" alt="Screenshot2" />
 
 ### Screenshot 3
-<img align="left" width="300px" src="/screenshots/3.jpg" align="center" alt="Screenshot2" />
+<img width="300px" src="/screenshots/3.jpg" align="center" alt="Screenshot2" />
 
 ### Screenshot 4
 <img width="300px" src="/screenshots/4.jpg" align="center" alt="Screenshot3" />
@@ -22,7 +22,7 @@ An application developed with Flutter and Apify API for tracking latest conrona 
 
 ## Connect With Me
 
-[<img alt="nixrajput | GitHub" width="24px" src="https://raw.githubusercontent.com/nixrajput/nixlab-files/master/images/icons/github-brands.svg" />][website]
+[<img align="left" alt="nixrajput | GitHub" width="24px" src="https://raw.githubusercontent.com/nixrajput/nixlab-files/master/images/icons/github-brands.svg" />][website]
 
 [<img align="left" alt="nixrajput | Facebook" width="24px" src="https://raw.githubusercontent.com/nixrajput/nixlab-files/master/images/icons/facebook-brands.svg" />][facebook]
 
