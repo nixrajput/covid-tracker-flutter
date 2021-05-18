@@ -19,6 +19,7 @@ An application developed with Flutter and Apify API for tracking latest conrona 
 ### Screenshot 4
 <img width="300px" src="/screenshots/4.jpg" align="center" alt="Screenshot3" />
 
+<br>
 
 ## Connect With Me
 
