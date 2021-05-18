@@ -9,10 +9,13 @@ An application developed with Flutter and Apify API for tracking latest conrona 
 
 ### Screenshot 1
 <img align="left" width="300px" src="/screenshots/1.jpg" align="center" alt="Screenshot1" />
+
 ### Screenshot 2
 <img align="left" width="300px" src="/screenshots/2.jpg" align="center" alt="Screenshot2" />
+
 ### Screenshot 3
 <img align="left" width="300px" src="/screenshots/3.jpg" align="center" alt="Screenshot2" />
+
 ### Screenshot 4
 <img align="left" width="300px" src="/screenshots/4.jpg" align="center" alt="Screenshot3" />
 
